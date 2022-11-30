@@ -1,5 +1,5 @@
-<h3>Made Daily goals project with react with glassmorphic design and clean UI, reviwnd concept about useState, useEffect hook & localStorage in this perticular Project🚀🚀</h3>
-<h3>Check it out : https://daily-goals-react-csfahad.vercel.app/<h3>
+<h2>Made Daily goals project with react with glassmorphic design and clean UI, reviwnd concept about useState, useEffect hook & localStorage in this perticular Project🚀🚀</h2>
+<h2>Check it out : https://daily-goals-react-csfahad.vercel.app/<h2>
 
 # Getting Started with Create React App
 
